@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dua Rizwan</h1>
 <h3 align="center">A passionate Computer Engineering student at UET Lahore.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duarizwan25&label=Profile%20views&color=0e75b6&style=flat" alt="duarizwan25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duarizwan25" alt="duarizwan25" /></a> </p>
-
 - 🔭 I’m currently working on **OOP in Java**
 
 - 🌱 I’m currently learning **Web Development**
